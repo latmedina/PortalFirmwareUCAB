@@ -7,10 +7,8 @@ El objetivo principal es simular un escenario real de despliegue de infraestruct
 ---
 
 ## 👥 Integrantes del Equipo
-* Luis Medina
-* Jesús M.
-* Manuel M.
-* Sebastián C.
+* Luis Torres
+* Otros.
 
 ---
 
