@@ -7,8 +7,12 @@ El objetivo principal es simular un escenario real de despliegue de infraestruct
 ---
 
 ## 👥 Integrantes del Equipo
+* Santiago De Andrade
+* Mariangel Goncalves
+* Sebastian Llambi
+* Javier Maiquetía
+* Jesus Obando
 * Luis Torres
-* Otros.
 
 ---
 
